@@ -2,6 +2,7 @@
 permalink: /casestudy/
 title: "Case Study"
 author_profile: true
+layout: single
 ---
 
 Drop spot for your case study work

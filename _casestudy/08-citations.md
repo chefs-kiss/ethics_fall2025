@@ -4,4 +4,4 @@ layout: archive
 ---
 Drop spot for citations used.
 
-Example using archive layout
+Example using archive layout.
