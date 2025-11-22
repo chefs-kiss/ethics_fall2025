@@ -1,6 +1,8 @@
 ---
 title: "Activity"
 layout: single
+share: false
+
 collection: casestudy
 permalink: /casestudy/activity/
 #nav_order: 3
