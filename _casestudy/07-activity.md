@@ -1,6 +1,7 @@
 ---
 title: "Activity"
 layout: single
+permalink: /casestudy/activity
 ---
 Content for your interactive activity.
 
