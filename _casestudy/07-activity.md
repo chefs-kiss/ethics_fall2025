@@ -8,5 +8,5 @@ permalink: /casestudy/activity/
 ---
 Content for your interactive activity.
 
-Testing ![](/images/500x300.png) <br>
+Testing <br> ![](/images/500x300.png) <br>
 
