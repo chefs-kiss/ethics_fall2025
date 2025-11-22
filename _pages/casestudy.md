@@ -1,11 +1,13 @@
 ---
-permalink: /casestudy/
 title: "Case Study"
 author_profile: true
 layout: single
-collection: casestudy
+
 permalink: /casestudy/
-nav_order: 0
+toc: false
+sidebar:
+  nav: casestudy
+collection_nav: casestudy
 ---
 
 Drop spot for your case study work
