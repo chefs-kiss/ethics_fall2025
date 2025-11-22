@@ -269,16 +269,16 @@ defaults:
   # _podcasts
   - scope:
       path: ""
-      type: casestudy
+      type: podcasts
     values:
-      layout: single #podcasts
+      layout:  podcasts
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _casestudy
   - scope:
       path: ""
-      type: portfolio
+      type: casestudy
     values:
       layout: single
       author_profile: true

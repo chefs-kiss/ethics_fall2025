@@ -1,7 +1,7 @@
 ---
 title: "Citations"
 layout: archive
-permalink: /casestudy/citations
+permalink: /casestudy/citations/
 ---
 Drop spot for citations used.
 
