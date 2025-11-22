@@ -3,8 +3,9 @@ title: "Case Study"
 author_profile: true
 layout: single
 
+collection: casestudy
 permalink: /casestudy/
-toc: true
+nav_order: 0
 
 ---
 
