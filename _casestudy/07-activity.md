@@ -1,6 +1,6 @@
 ---
 title: "Activity"
-layout: archive
+layout: single
 ---
 Content for your interactive activity.
 

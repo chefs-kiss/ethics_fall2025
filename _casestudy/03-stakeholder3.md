@@ -1,5 +1,5 @@
 ---
 title: "Stakeholder 2"
-layout: default
+layout: single
 ---
 Content for Stakeholder 2.
