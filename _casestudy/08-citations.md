@@ -1,7 +1,6 @@
 ---
 title: "Citations"
 layout: single
-share: false
 
 collection: casestudy
 permalink: /casestudy/citations/

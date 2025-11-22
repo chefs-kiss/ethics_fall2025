@@ -2,7 +2,6 @@
 title: "Case Study"
 author_profile: true
 layout: single
-share: false
 
 collection: casestudy
 permalink: /casestudy/

@@ -1,7 +1,6 @@
 ---
 title: "Stakeholder 2"
 layout: single
-share: false
 
 collection: casestudy
 permalink: /casestudy/stakeholder2/
