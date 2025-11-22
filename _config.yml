@@ -269,7 +269,7 @@ defaults:
   # _podcasts
   - scope:
       path: ""
-      type: podcasts
+      type: casestudy
     values:
       layout: podcasts
       author_profile: true
