@@ -4,10 +4,8 @@ author_profile: true
 layout: single
 
 permalink: /casestudy/
-toc: false
-sidebar:
-  nav: casestudy
-collection_nav: casestudy
+toc: true
+
 ---
 
 Drop spot for your case study work
